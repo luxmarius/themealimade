@@ -4484,6 +4484,7 @@ input[type="button"].btn-block {
 
 .nav-tabs .nav-item {
   margin-bottom: -1px;
+  margin-right: 20px;
 }
 
 .nav-tabs .nav-link {
